@@ -21,7 +21,7 @@
 
 * Unique device key (username + MAC).
 * Server on/off and block-list checks.
-* Telegram bot integration to send keys to Devoloper.
+* Telegram bot integration to send keys to developer.
 * Keyboard emulation with message typing and `Enter`.
 * Designed for Windows only.
 
